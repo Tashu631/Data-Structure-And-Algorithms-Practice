@@ -8,4 +8,6 @@ func main() {
 	Pattern4()
 	Pattern5()
 	Pattern6()
+	Pattern7()
+	Pattern8()
 }
