@@ -9,4 +9,8 @@ func main() {
 
 	result := Search(arr, target)
 	fmt.Println(result)
+	target = 2
+
+	lowerbound := LowerBound(arr,target)
+	fmt.Println(lowerbound)
 }

@@ -13,4 +13,7 @@ func main() {
 
 	BubbleSort := BubbleSort(arr1)
 	fmt.Println("Sort array by bubble sort ----", BubbleSort)
+
+	insertionSort := InsertionSort(arr1)
+	fmt.Println("Sort array by insertion sort ",insertionSort)
 }
