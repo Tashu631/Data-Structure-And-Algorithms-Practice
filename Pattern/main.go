@@ -25,8 +25,6 @@ func main() {
 	fmt.Println("\n===== PATTERN 7: DIAMOND SHAPE =====")
 	Pattern7()
 
-	fmt.Println("\n===== PATTERN 8: RIGHT-ANGLED TRIANGLE (ALT) =====")
-	Pattern8()
 }
 
 /* EXPLANATION:
@@ -42,7 +40,7 @@ Pattern4: Right-angled triangle with repeated row number
 Pattern5: Inverted triangle of stars
 Pattern6: Inverted triangle with numbers
 Pattern7: Diamond shape (hollow)
-Pattern8: Right-angled triangle (decreasing stars)
+
 
 These programs help practice:
 - Nested loops (outer loop for rows, inner loop for columns)
