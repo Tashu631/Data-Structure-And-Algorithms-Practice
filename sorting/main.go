@@ -16,4 +16,7 @@ func main() {
 
 	insertionSort := InsertionSort(arr1)
 	fmt.Println("Sort array by insertion sort ",insertionSort)
+
+	MergeSort(arr1,0,len(arr1)-1)
+	fmt.Println("Sort array by Merge sort",arr1)
 }
